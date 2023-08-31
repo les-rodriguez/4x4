@@ -1,0 +1,22 @@
+body {
+    background-color: gainsboro;
+}
+
+
+.box{
+    border: 1px solid blue;
+    padding: 40px;
+    margin: 0 15px;
+    background-color: black;
+}
+
+#sectionOne, #sectionTwo, #sectionThree, #sectionFour {
+    display: flex;
+    flex-direction: row;
+    padding: 20px 20px 20px 150px;
+    margin: 0 200px;
+}
+
+.switch {
+    background-color: gray;
+}
